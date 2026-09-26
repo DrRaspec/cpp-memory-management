@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# C/C++ build outputs
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.dSYM/
+build/
+out/
+debug/
+release/
+cmake-build-*/
+
+# Project-root executable created by the VS Code build task
+/contact_manager
+
+# VS Code local workspace files
+.vscode/
+
+# IDE and editor files
+*.swp
+*.swo
+*~
